@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1688672736 source:d:\si plus plus projekt\sigmamale\main.cpp
+	<iostream>
+	<string>
+	<vector>
+
